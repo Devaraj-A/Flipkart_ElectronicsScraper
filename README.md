@@ -7,7 +7,7 @@ This project is a Scrapy spider designed to scrape product information from the 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Devaraj-A/Flipkart_Electronics_Scraper.git
+   git clone https://github.com/Devaraj-A/Flipkart_ElectronicsScraper.git
    cd flipkart_scraper
 
 2. **Active a virtual environment**:
