@@ -17,5 +17,5 @@ This project is a Scrapy spider designed to scrape product information from the 
 
 2. **Run Our Spider:**
     ```bash
-    cd spiders
+    cd flipkart_scraper\spiders
     scrapy crawl flipkart_electronics
